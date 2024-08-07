@@ -23,7 +23,7 @@ export default function Home() {
     e.preventDefault();
 
     try {
-      const response = await fetch('https://formspree.io/f/mldrneql', {
+      const response = await fetch('https://formspree.io/f/xkgwbggy', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
